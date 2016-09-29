@@ -1,0 +1,4 @@
+# Go
+export GOROOT=$HOME/lib/go
+export GOPATH=$HOME/lib/go/code
+export PATH=$PATH:$HOME/lib/go/bin:$GOPATH/bin
