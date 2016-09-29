@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Go Programming Language
 
 Go is an open source programming language that makes it easy to build simple,
@@ -41,3 +42,7 @@ put the following in your .profile:
 	export PATH=$PATH:$GOROOT/bin
 
 See https://golang.org/doc/install or doc/install.html for more details.
+=======
+# skicka_etc
+skicka and other junk to get research data and other junk set up on new server
+>>>>>>> cbd1a6f9d3f39459890717d16ba63cd3b98c475f
