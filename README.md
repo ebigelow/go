@@ -1,6 +1,6 @@
 # Go2Skicka
 
-Basic go stuff to get sticka up and running.
+Basic go stuff to get skicka up and running. This lets you use google drive from the command line, e.g. `skicka download my/big/file.zip ./file.zip`
 
 Throw this in your .bashrc:
 
