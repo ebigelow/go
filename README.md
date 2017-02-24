@@ -1,12 +1,14 @@
+# Go2Skicka
 
-For documentation about how to install and use Go,
-visit https://golang.org/ or load doc/install-source.html
-in your web browser.
+Basic go stuff to get sticka up and running.
 
-Our canonical Git repository is located at https://go.googlesource.com/go.
-There is a mirror of the repository at https://github.com/golang/go.
+Throw this in your .bashrc:
 
-=======
-# skicka_etc
-skicka and other junk to get research data and other junk set up on new server
->>>>>>> cbd1a6f9d3f39459890717d16ba63cd3b98c475f
+```
+# Go
+export GOROOT=$HOME/lib/go
+export GOPATH=$HOME/lib/go/code
+export PATH=$PATH:$HOME/lib/go/bin:$GOPATH/bin
+```
+
+and then run `skicka init` to log into your google drive account. After that everything should work!
