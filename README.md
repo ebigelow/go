@@ -1,4 +1,4 @@
-# Go2Skicka
+# go & skicka
 
 Basic go stuff to get skicka up and running. This lets you use google drive from the command line, e.g. 
 
